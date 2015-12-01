@@ -3,7 +3,8 @@
   "name": "Pawn",
   "fileTypes": [
     "pwn",
-    "inc"
+    "inc",
+    "sma"
   ],
   "patterns": [
   {
